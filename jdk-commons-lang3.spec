@@ -4,7 +4,7 @@
 #
 Name     : jdk-commons-lang3
 Version  : LANG.3.4
-Release  : 4
+Release  : 5
 URL      : https://github.com/apache/commons-lang/archive/LANG_3_4.tar.gz
 Source0  : https://github.com/apache/commons-lang/archive/LANG_3_4.tar.gz
 Summary  : No detailed summary available
